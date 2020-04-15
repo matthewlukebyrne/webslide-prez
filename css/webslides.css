@@ -4052,7 +4052,7 @@ svg {
 
 [class*='bg-'] a,
 [class*='bg-gradient-'] a {
-    color: #bce;
+    color: #efefee;
 }
 
 .bg-brown a {
@@ -4610,10 +4610,6 @@ Resume/Work/CV/Portfolio
 .work-label,
 .work li a {
     border-bottom: 1px solid rgba(0, 20, 80, 0.1);
-}
-
-.work li:nth-child(odd)>a {
-    background-color: rgba(0, 20, 80, 0.03);
 }
 
 .work li a:hover {
