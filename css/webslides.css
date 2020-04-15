@@ -1600,33 +1600,39 @@ figure[class*='text-pull-'] {
 =========================================== */
 .text-apple,
 .bg-apple {
-    font-family: 'San Francisco', helvetica, arial, sans-serif;
+    font-family: 'Montserrat',
+        sans-serif;
+
 }
 
 /* Ultra Light */
 @font-face {
-    font-family: 'San Francisco';
+    font-family: 'Montserrat',
+        sans-serif;
     font-weight: 100;
     src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-ultralight-webfont.woff2");
 }
 
 /* Thin */
 @font-face {
-    font-family: 'San Francisco';
+    font-family: 'Montserrat',
+        sans-serif;
     font-weight: 200;
     src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-thin-webfont.woff2");
 }
 
 /* Regular */
 @font-face {
-    font-family: 'San Francisco';
+    font-family: 'Montserrat',
+        sans-serif;
     font-weight: 400;
     src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-regular-webfont.woff2");
 }
 
 /* Bold */
 @font-face {
-    font-family: 'San Francisco';
+    font-family: 'Montserrat',
+        sans-serif;
     font-weight: bold;
     src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-bold-webfont.woff2");
 }
