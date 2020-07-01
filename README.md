@@ -1,4 +1,4 @@
-Sample presentation website, using a library called Webslides. Very handy to keep in the future for reference to other project materials.
+Sample presentation website, using a library called Webslides. <br> To keep in the future for reference to other project materials.
 
 
 # Webslides TV
